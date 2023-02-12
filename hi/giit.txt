@@ -1,7 +1,0 @@
-check
-1
-2
-3
-
-A B C
-d e
